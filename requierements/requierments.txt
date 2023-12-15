@@ -1,0 +1,10 @@
+palmerpenguins
+numpy
+pandas
+seaborn
+matplotlib
+empiricaldist
+statsmodels
+scikit-learn
+pyjanitor
+session-info
